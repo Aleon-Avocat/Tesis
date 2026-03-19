@@ -1,0 +1,24 @@
+Resina vs Nada (análisis)				
+Column1	Column2	Column3	Column4	Column5
+Muestra5,spc - RawData				
+No,	P/V	Wavelength nm,	Abs,	Description
+1	Peak	801	0,178	
+2	Peak	702	0,183	
+3	Peak	639	0,22	
+4	Peak	484	0,237	
+5	Peak	379	4	
+6	Peak	335	4	
+7	Peak	303	4	
+8	Peak	273	4	
+9	Peak	237	4	
+10	Peak	219	4	
+11	Valley	765	0,176	
+12	Valley	656	0,178	
+13	Valley	598	0,198	
+14	Valley	467	0,229	
+15	Valley	356	3,913	
+16	Valley	331	3,944	
+17	Valley	299	3,92	
+18	Valley	270	3,964	
+19	Valley	236	3,969	
+20	Valley	217	3,987	
